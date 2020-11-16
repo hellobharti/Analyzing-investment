@@ -1,0 +1,4 @@
+Data of various Data Science Universities in USA have been collected using foursquare. The data consists of school name, state name,
+Location of school. Another similar dataset have been taken from kaggle giving various informations about the schools. This data contains 
+School name, NOC,Program, Delivery, Teaching score, research score, citations,total score,number of students. Both the data have been 
+merged and clustered based on various factors. Clusters have been visualized using the location data through folim map.

@@ -1,0 +1,10 @@
+Institutions and administrators regularly have to make difficult choices about how best to invest resources to serve students. Grants from
+federal, state, and philanthropic agencies provide additional funds for the development, testing, and evaluation of innovative 
+undergraduate education programs, which, if demonstrated to be effective, often are expected to be sustained from other sources when grant
+funding ends. Yet the changing landscape in postsecondary education, including increasing enrollment, expanding access, and decreasing 
+state-level investment, is putting added pressure on postsecondary education budgets.
+But economic evaluation, or the systematic analysis of the relationship between costs and outcomes of a program or policy, is relatively 
+uncommon in higher education. This type of evaluation can be an important tool for decision makers considering questions of resource 
+allocation.
+USA government wants to invest in various Data Science universities in USA. They need to analyze and cluster various institutions to decide
+the structure of their investment and where should they invest more. 
